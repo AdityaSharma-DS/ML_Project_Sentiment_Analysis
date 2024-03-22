@@ -8,11 +8,10 @@
 
 <h2>Summary:</h2>
 
-    We used dataset which has tweets in text format and their sentiment type (positive, negative and neutral).
-    The goal was to build a model for text-classification.
-    We Pre-processed the data using variuos techniques and libraries.
-    The pre-precessed data is converted to numbers, so that we can feed the data in the model.
-    After building the classification model, we predicted the result for the test data.
-    After that we saw that using the above techniques, our model performed good in perspective of how the text classification models perform.
-    One more way to increase accuracy is to use different variations of Pre-processing techniques.
-
+- Use dataset which has tweets in text format and their sentiment type (positive, negative and neutral).
+- The goal was to build a model for text-classification.
+- Pre-processed the data using variuos techniques and libraries.
+- The pre-precessed data is converted to numbers, so that I can feed the data in the model.
+- After building the classification model, predicted the result for the test data.
+- After that I saw that using the above techniques, our model performed good in perspective of how the text classification models perform.
+- One more way to increase accuracy is to use different variations of Pre-processing techniques. 
