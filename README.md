@@ -1,19 +1,19 @@
 <h1>Sentiment Analysis </h1>
     This project focuses on sentiment analysis regarding the problems of major U.S. airlines using Twitter data. The dataset was scraped in February 2015 and includes tweets categorized as positive, negative, or neutral, along with categorization of negative reasons.
 
-<h1>Dataset:</h1>
-    The project is from a dataset from Kaggle.
-    Link to the Kaggle project site:https://www.kaggle.com/crowdflower/twitter-airline-sentiment
-    The dataset has to be downloaded from the above Kagglewebsite.
+<h2>Dataset:</h2>
+   - The project is from a dataset from Kaggle.
+   - Link to the Kaggle project site:https://www.kaggle.com/crowdflower/twitter-airline-sentiment
+   - The dataset can be downloaded from the above Kagglewebsite. or you can use "Tweets.csv"  file which I have uploaded in this repository as well.
 
 <h2>Data Description:</h2>
 
-    A sentiment analysis job about the problems of each major U.S. airline.
-    The Twitter data used in this project was scraped from February 2015. Contributors were asked to classify tweets into positive, negative, and neutral sentiments, and further categorize negative reasons such as "late flight" or "rude service"
+   - A sentiment analysis job about the problems of each major U.S. airline.
+   - The Twitter data used in this project was scraped from February 2015. Contributors were asked to classify tweets into positive, negative, and neutral sentiments, and further categorize negative reasons such as "late flight" or "rude service"
 
 <h2> Loading and Preprocessing Data </h2>
-        Load the dataset into a Pandas DataFrame  using pandas read_csv() function.        
-        Perform data preprocessing steps such as removing HTML tags, replacing contractions, removing numbers, tokenization, removing stopwords, and lemmatization.
+       - Load the dataset into a Pandas DataFrame  using pandas read_csv() function.        
+       - Perform data preprocessing steps such as removing HTML tags, replacing contractions, removing numbers, tokenization, removing stopwords, and lemmatization.
 
 <h2>Model Building and Evaluation</h2>
 
