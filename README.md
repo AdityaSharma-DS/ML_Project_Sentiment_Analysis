@@ -19,7 +19,7 @@
     - contractions: Library for expanding contractions in text.
     - numpy: Numerical computing library.
     - sklearn: Machine learning library for model building and evaluation.
-    - matplotlib, seaborn: Visualization libraries for plotting results.
+    - matplotlib, seaborn: Visualization libraries for plotting result.
 
 <h2> Data Preprocessing </h2>
     - Loading Data: The data is loaded from the provided CSV file using pandas.
